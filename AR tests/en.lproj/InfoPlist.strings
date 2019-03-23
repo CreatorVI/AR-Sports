@@ -1,0 +1,10 @@
+/* 
+  Localization.strings
+  AR tests
+
+  Created by Yu Wang on 2/21/19.
+  Copyright © 2019 Illumination. All rights reserved.
+*/
+
+"CFBundleDisplayName" = "AR Sports";
+"CFBundleName" = "AR Sports";
