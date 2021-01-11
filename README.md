@@ -1,3 +1,3 @@
 # AR-Sports
 
-AR Sports created by illuminator
+AR Sports
